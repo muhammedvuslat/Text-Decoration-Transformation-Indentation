@@ -1,3 +1,6 @@
+body{
+    background-color: orange;
+}
 h2{
     text-align: center;
 }
@@ -6,6 +9,8 @@ h2{
     color: blue;
     text-align: center;
     text-transform: capitalize;
+    column-count: 3;
+    column-rule: 3px solid blue;
     
 }
 
