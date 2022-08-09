@@ -6,11 +6,14 @@ h2{
     color: blue;
     text-align: center;
     text-transform: capitalize;
+    
 }
 
 #par2{
     color: rgba(255, 0, 0, 1);
     text-align: right;
+    direction: rtl; 
+    
     
 }
 
