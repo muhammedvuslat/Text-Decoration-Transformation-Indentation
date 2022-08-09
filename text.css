@@ -13,6 +13,7 @@ h2{
     color: rgba(255, 0, 0, 1);
     text-align: right;
     direction: rtl; 
+    text-shadow: 3px 3px 5px red;
     
     
 }
